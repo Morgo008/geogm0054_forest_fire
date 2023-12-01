@@ -2,3 +2,4 @@
 Forest fire simulator for GEOGM0054 exercises
 
 Example editing
+Example two
